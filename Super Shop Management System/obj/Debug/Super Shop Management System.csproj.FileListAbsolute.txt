@@ -1,0 +1,30 @@
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe.config
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.pdb
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csprojAssemblyReference.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.GenerateResource.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.CreateAccountForm.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management.mdf
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\bin\Debug\Management_log.ldf
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.LogIn.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.AdminInterface.resources
+C:\Users\DC\source\repos\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.UserInterface.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\bin\Debug\Management.mdf
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\bin\Debug\Management_log.ldf
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe.config
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.exe
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\bin\Debug\Super Shop Management System.pdb
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csprojAssemblyReference.cache
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.AdminInterface.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.CreateAccountForm.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.LogIn.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.Properties.Resources.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super_Shop_Management_System.UserInterface.resources
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.GenerateResource.cache
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.csproj.CoreCompileInputs.cache
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.exe
+E:\Academic\Lesson 8th semester\C#\Project\Super Shop Management System\Super Shop Management System\obj\Debug\Super Shop Management System.pdb
